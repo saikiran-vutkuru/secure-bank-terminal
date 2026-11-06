@@ -391,9 +391,3 @@ This project demonstrates practical use of:
 - Linux serial-port programming in C.
 - File-based record persistence and transaction logging.
 - Debugging communication between embedded firmware and a PC application.
-
-## Author
-
-**sai kiran**
-
-For academic demonstration and portfolio use. Update this section with your GitHub profile, project video, circuit diagram, or hardware photographs if available.
