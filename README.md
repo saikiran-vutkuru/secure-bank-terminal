@@ -43,6 +43,9 @@ SecureBank Terminal is an embedded-systems project that simulates basic ATM oper
 
 **Important:** This is an educational ATM simulator. It does not connect to a real bank, dispense physical cash, or provide production-grade banking security.
 
+## Block Diagram
+<img width="492" height="382" alt="block diagram" src="https://github.com/user-attachments/assets/a2369f3f-6188-45fc-9e42-6ea3e218a473" />
+
 ## System Architecture
 
 ### Hardware Block Diagram
